@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Clarity</title>
     <link>https://blog.yangjingwei.com/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sat, 05 Nov 2022 19:32:46 +0800</lastBuildDate><atom:link href="https://blog.yangjingwei.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://blog.yangjingwei.com/posts/my-first-post/</link>
-      <pubDate>Sat, 05 Nov 2022 19:32:46 +0800</pubDate>
-      
-      <guid>https://blog.yangjingwei.com/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
